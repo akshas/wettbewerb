@@ -12,7 +12,6 @@ namespace WpfWettbewerb
         public int Leben { get; set; }
         public int Schlag { get; set; }
 
-        Random rnd = new Random();
         public Spieler(string name)
         {
             Name = name;

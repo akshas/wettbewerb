@@ -42,7 +42,7 @@
                     </StackPanel>
                 </StackPanel>
 
-                <Button  x:Name="Player1Haut" Tag ="Hauen" Click="Hauen_Click" Content="Hauen" Margin="0 20" Width="200" VerticalAlignment="Bottom" Height="30"/>
+                <Button  x:Name="Player1Haut" Tag ="Hauen" MouseDown="OnMouseDown" MouseLeave="OnMouseLeave" Content="Hauen" Margin="0 20" Width="200" VerticalAlignment="Bottom" Height="30"/>
             </Grid>
             <Grid Grid.Column="1">
 
@@ -50,12 +50,12 @@
                 <TextBlock x:Name="NamePlayer2" Text= "Player 2" FontSize="22" Padding="0 20 0 0"/>
                     <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center" Margin="0 40 0 0" Height="200">
                         <Label Content="Shlag:" FontSize="16"/>
-                        <TextBlock x:Name="Shlag2" Text=""  Padding="10 20"/>
+                        <TextBlock x:Name="Schlag2" Text=""  Padding="10 20"/>
                     </StackPanel>
             </StackPanel>
 
                 
-            <Button  x:Name="Player2Haut" Tag ="Hauen" Click="Hauen_Click" Content="Hauen" Margin="0 20" Height="30" Width="200" VerticalAlignment="Bottom"/>
+            <Button  x:Name="Player2Haut" Tag ="Hauen" MouseDown="OnMouseDown" MouseLeave="OnMouseLeave" Content="Hauen" Margin="0 20" Height="30" Width="200" VerticalAlignment="Bottom"/>
             </Grid>
         </Grid>
     </Grid>
