@@ -1,0 +1,15 @@
+C:\Users\alex\source\repos\WpfWettbewerb\WpfWettbewerb\bin\Debug\WpfWettbewerb.exe.config
+C:\Users\alex\source\repos\WpfWettbewerb\WpfWettbewerb\bin\Debug\WpfWettbewerb.exe
+C:\Users\alex\source\repos\WpfWettbewerb\WpfWettbewerb\bin\Debug\WpfWettbewerb.pdb
+C:\Users\alex\source\repos\WpfWettbewerb\WpfWettbewerb\obj\Debug\WpfWettbewerb.csprojAssemblyReference.cache
+C:\Users\alex\source\repos\WpfWettbewerb\WpfWettbewerb\obj\Debug\MainWindow.g.cs
+C:\Users\alex\source\repos\WpfWettbewerb\WpfWettbewerb\obj\Debug\App.g.cs
+C:\Users\alex\source\repos\WpfWettbewerb\WpfWettbewerb\obj\Debug\WpfWettbewerb_MarkupCompile.cache
+C:\Users\alex\source\repos\WpfWettbewerb\WpfWettbewerb\obj\Debug\WpfWettbewerb_MarkupCompile.lref
+C:\Users\alex\source\repos\WpfWettbewerb\WpfWettbewerb\obj\Debug\MainWindow.baml
+C:\Users\alex\source\repos\WpfWettbewerb\WpfWettbewerb\obj\Debug\WpfWettbewerb.g.resources
+C:\Users\alex\source\repos\WpfWettbewerb\WpfWettbewerb\obj\Debug\WpfWettbewerb.Properties.Resources.resources
+C:\Users\alex\source\repos\WpfWettbewerb\WpfWettbewerb\obj\Debug\WpfWettbewerb.csproj.GenerateResource.cache
+C:\Users\alex\source\repos\WpfWettbewerb\WpfWettbewerb\obj\Debug\WpfWettbewerb.csproj.CoreCompileInputs.cache
+C:\Users\alex\source\repos\WpfWettbewerb\WpfWettbewerb\obj\Debug\WpfWettbewerb.exe
+C:\Users\alex\source\repos\WpfWettbewerb\WpfWettbewerb\obj\Debug\WpfWettbewerb.pdb
